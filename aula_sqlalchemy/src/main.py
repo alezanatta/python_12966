@@ -40,7 +40,7 @@ def busca_produto_vencido():
     session = get_session()
 
     resultados = session.query(Produto) \
-            .filter(Produto.dt_validade < date.today())
+                        .filter(Produto.dt_validade < date.today())
 
     for r in resultados:
         print(r.nm_produto)

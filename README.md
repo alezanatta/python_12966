@@ -4,4 +4,12 @@ Repositório para o curso de Python, turma 12966
 
 # Conteúdo
 
--- A contruir
+-- A construir
+
+# Instalação
+
+-- A construir
+
+# Contribuidores
+
+-- 
